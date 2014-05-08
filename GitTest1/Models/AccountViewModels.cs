@@ -6,7 +6,7 @@ namespace GitTest1.Models
     {
         [Required]
         [Display(Name = "User name")]
-        public string UserName { get; set; }
+        public string UserName { get; set; } // góð sídd er kvenmanns gaman
     }
 
     public class ManageUserViewModel
