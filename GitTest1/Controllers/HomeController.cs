@@ -15,7 +15,7 @@ namespace GitTest1.Controllers
 
 		public ActionResult About()
 		{
-			ViewBag.Message = "Git er töff";
+			ViewBag.Message = "Git er töffari";
 
 			return View();
 		}
